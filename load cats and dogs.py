@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Rakshit
+@author: Samarth
 """
 from keras.models import Sequential 
 from keras.layers import Convolution2D
